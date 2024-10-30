@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-client-testimonials\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-12 11:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jurgen Oldenburg <jurgen@staxx.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adminpanel.php:3
+msgid "Client Testimonials"
+msgstr "Klantenreacties"
+
+#: adminpanel.php:6
+msgid "New client testimonial added successful"
+msgstr "Nieuwe klantenreactie succesvol toegevoegd"
+
+#: adminpanel.php:10
+msgid "Client testimonial successfully deleted"
+msgstr "Nieuwe klantenreactie succesvol verwijderd"
+
+#: adminpanel.php:13
+msgid "Add new client testimonial:"
+msgstr "Nieuwe klantenreactie toevoegen:"
+
+#: adminpanel.php:14
+msgid "Fill in the form below to add a new client testimonial. All fields are required."
+msgstr "Vul het onderstaande formulier in om een nieuwe klantenreactie toe te voegen. Alle velden zijn verplicht."
+
+#: adminpanel.php:38
+msgid "Client Name"
+msgstr "Klant naam"
+
+#: adminpanel.php:44
+#: adminpanel.php:67
+#: adminpanel.php:74
+msgid "Testimonial"
+msgstr "Reactie"
+
+#: adminpanel.php:58
+msgid "List of testimonials:"
+msgstr "Overzicht klantenreacties:"
+
+#: adminpanel.php:59
+msgid "This is the list of already established and active testimonials as they are shown random on your website."
+msgstr "Dit is de lijst met reeds toegevoegde klantenreacties welke op uw website willekeurig getoond worden."
+
+#: adminpanel.php:66
+#: adminpanel.php:73
+msgid "Name"
+msgstr "Naam"
+
+#: adminpanel.php:106
+msgid "There are no testimonials yet"
+msgstr "Er zijn nog geen klantenreacties ingevoerd"
+
+#: adminpanel.php:116
+msgid "Delete"
+msgstr "Verwijderen"
+
